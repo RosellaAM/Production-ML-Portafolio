@@ -8,21 +8,22 @@ A collection of deployed machine learning solutions solving real business proble
 
 ## 📊 Featured Projects
 
-### 🎨 Project 1: CuratorAI - Personalized Art Discovery System
-**Domain:** Cultural Technology & Recommendation Systems | **Model:** Content-Based Filtering + TF-IDF + Nearest Neighbors
+### 🎨 Project 1: GalleryAI - Immersive Virtual Art Experience
+**Domain:** Cultural Technology & Experience Design | **Model:** Content-Based Filtering + Multi-Sensory Integration
 
-**Business Context:** Major museums like The Metropolitan Museum of Art face engagement challenges with their digital collections. With 470,000+ artworks available online, visitors need intelligent ways to discover relevant content rather than browsing manually.
+**Business Context:** Traditional digital art collections lack emotional engagement. GalleryAI transforms art discovery into an immersive journey by combining visual art with atmospheric music and intelligent recommendations.
 
-**Technical Solution:** Built a content-based recommendation engine using The Met's Open Access dataset. The system analyzes textual features (title, artist, culture, period, classification) to find semantic similarities between artworks and suggest personalized discoveries.
+**Technical Solution:** Built a content-based recommendation engine using The Met's Open Access API, enhanced with multi-sensory experience design. The system analyzes artwork metadata to create personalized gallery tours paired with mood-appropriate music.
 
 **Key Features:**
-* 🎯 **AI-Powered Recommendations**: Find visually and thematically similar artworks using cosine similarity on TF-IDF vectors.
-* 🏛️ **Met Collection Integration**: Direct access to 470,000+ artworks from The Metropolitan Museum's Open Access API.
-* 📱 **Interactive Web Application**: Streamlit-based interface with real-time recommendations.
-* 🔗 **Direct Museum Links**: Seamless connection to artwork pages on metmuseum.org for high-resolution images.
-* 🗺️ **Thematic Exploration**: Filter by department, culture, and time period.
+* 🎯 **AI-Powered Curation**: Intelligent artwork recommendations using TF-IDF and cosine similarity
+* 🖼️ **Guaranteed Visual Experience**: Curated collection with confirmed high-quality images
+* 🎵 **Immersive Audio**: Mood-matching background music for each artwork era
+* 🏛️ **Virtual Gallery Layout**: Streamlit-powered exhibition space
+* 🔍 **Smart Filtering**: Explore by era, department, mood, and artistic style
+* 💫 **Personal Exhibitions**: Save and share custom art collections
 
-**Tech Stack:** Python, Scikit-learn, TF-IDF, Nearest Neighbors, Streamlit, Pandas, Joblib, Requests
+**Tech Stack:** Python, Scikit-learn, TF-IDF, Nearest Neighbors, Streamlit, Pandas, Requests, HTML5 Audio
 
 **Live Demo:** [Coming Soon] | **Code:** [Coming Soon]
 
@@ -49,7 +50,7 @@ A collection of deployed machine learning solutions solving real business proble
 
 **Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, Joblib, Plotly
 
-**Live Demo:** [View Application](https://megalineapppy-tsf.streamlit.app/) | **Code:** [megaline_plans/](https://github.com/RosellaAM/Production-ML-Showcase/blob/main/megaline_plans/megaline_app.py)
+**Live Demo:** [View Application](https://megalineapppy-tsf.streamlit.app/) | **Code:** [megaline_plans/](https://github.com/RosellaAM/Production-ML-Showcase/blob/main/MegalinePlans/megaline_app.py)
 
 ---
 
