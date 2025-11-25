@@ -1,9 +1,9 @@
 streamlit
 pandas
-plotly-express
-scikit-learn
-joblib
-requests
 numpy
-tensorflow
+scikit-learn
+requests
+joblib
 Pillow
+plotly
+matplotlib
